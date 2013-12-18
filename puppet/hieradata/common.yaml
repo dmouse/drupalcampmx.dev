@@ -61,7 +61,7 @@ apache:
     vhosts:
         E0QvRAgIkCJ7:
             servername: drupalcampmx.dev
-            docroot: /var/www/drupalcampmx.dev
+            docroot: /var/www/drupalcampmx
             port: '80'
             setenv:
                 - 'APP_ENV dev'
